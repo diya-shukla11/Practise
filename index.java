@@ -4,6 +4,6 @@ public class index {
     }
     public static void main(String args[]){
         fun();
-        System.out.println("hello");
+        System.out.println("bye");
     }
 }
